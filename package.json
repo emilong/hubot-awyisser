@@ -2,7 +2,7 @@
   "name": "hubot-awyisser",
   "version": "1.0.0",
   "description": "Generate awyisser images from hubot",
-  "main": "N/A",
+  "main": "index.coffee",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
