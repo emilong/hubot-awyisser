@@ -9,7 +9,7 @@
 #   hubot awyiss motha fuckin <phrase>: generate awyisser image for <phrase>
 
 module.exports = (robot) ->
-  robot.respond /(awyiss)( motha fuckin)? (.*)/i, (msg) ->
+  robot.respond /(aw *yiss)( motha fuckin)? (.*)/i, (msg) ->
     awyisser msg, msg.match[3]
 
 awyisser = (msg, phrase) ->

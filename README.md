@@ -31,6 +31,8 @@ hubot awyiss motha fuckin very awsome happed.
 
 After the above, you may want to say, "aw yiss." (Optional, but suggested.)
 
+***WARNING!!!*** awyisser tweets all your yisses to [@awyisser](https://twitter.com/awyisser), so maybe don't put anything you don't want tweeted?
+
 ## License
 
 ![WTFPL](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png)
